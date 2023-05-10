@@ -36,7 +36,6 @@ const Footer = () => {
         by <Link href="https://github.com/akm-xdd">Anand</Link>.
         <br/>
         <br/>
-        All 3D assets are duly credited on my Github Repository for this website.
       </Text>
     </FooterContainer>
   );
